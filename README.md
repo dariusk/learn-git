@@ -1,2 +1,3 @@
 # learn-git
-yay
+
+important: don't delete everything, it sucks!!!
